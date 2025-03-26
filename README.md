@@ -2,7 +2,7 @@
  
 # Principal Submanifold for clustering and RNA correction
 
-This is a Python implementation of our sampling method described in our paper *A Principal Submanifold-Based Approach for Clustering and Multiscale RNA Correction*
+This is a Python implementation of our sampling method described in our paper *A Principal Submanifold-Based Approach for Clustering and Multiscale RNA Correction*.
 
 ## Pre-require
 - Python 3.8
